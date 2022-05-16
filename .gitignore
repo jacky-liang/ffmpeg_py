@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+videos_input
+
+videos_output
+
+ffmpeg2*
